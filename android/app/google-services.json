@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492289730613",
+    "project_id": "colorwinzo",
+    "storage_bucket": "colorwinzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492289730613:android:0c7f698fa1cb56cdc9297c",
+        "android_client_info": {
+          "package_name": "com.foundercode.ColorWinzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492289730613-cem5kqma98on5iam10q55imhkrujbdkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foundercode.ColorWinzo",
+            "certificate_hash": "400864ab023d6723bdfa0e3bbe8b146d56f3b950"
+          }
+        },
+        {
+          "client_id": "492289730613-290goacd38a8jr4aj068adka22365fjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q_aLyIbxA5s058AEgsMqQ17t4jxWR3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492289730613-290goacd38a8jr4aj068adka22365fjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
